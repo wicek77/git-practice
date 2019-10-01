@@ -12,6 +12,9 @@
 - git branch: list branches
 - git checkout: checkout a branch (update HEAD)
 - git checkout -b: create branch, then check it out
+- git stash: Stash changes from working directory
+- git stash list: List stashes
+- git stash pop: Apply stashed changes to working directory
 
 ## What's a branch?
 
