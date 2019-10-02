@@ -16,6 +16,9 @@
 - git show: Shows detailed info on a single commit
 - git diff: Shows differences in what changes have been made. Can be used for changes in stging area, compare branches, as well as last change on a single branch
 - git merge: Merge changes from different branches
+- git stash: Stash changes from working directory
+- git stash list: List stashes
+- git stash pop: Apply stashed changes to working directory
 
 ## What's a branch?
 
