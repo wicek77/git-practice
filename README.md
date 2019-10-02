@@ -10,12 +10,12 @@
 - git config: Set or get configuration
 - git log: Show a history (aka "logs") of project commits
 - git branch: list branches
+- git branch -c: Creates a branch
 - git checkout: checkout a branch (update HEAD and apply changes to working directory)
 - git checkout -b: create branch, then check it out
 - git show: Shows detailed info on a single commit
 - git diff: Shows differences in what changes have been made. Can be used for changes in stging area, compare branches, as well as last change on a single branch
 - git merge: Merge changes from different branches
-
 
 ## What's a branch?
 
@@ -26,7 +26,6 @@ A branch is a ref(erence) to a commit. When HEAD points to a branch, we say we'r
 HEAD is a ref(erence) to the "current" branch (or sometimes a commit...more on that later). Git commands like `status`, `log`, and `branch` use HEAD. `git checkout` updates HEAD to ref(er) to a different branch.
 
 ## Commit messages
-
 
 Default editor is nano (this can be changed)
 
