@@ -27,6 +27,7 @@ HEAD is a ref(erence) to the "current" branch (or sometimes a commit...more on t
 
 ## Commit messages
 
+
 Default editor is nano (this can be changed)
 
 Or use `git commit -m "<message>"`
